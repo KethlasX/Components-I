@@ -123,7 +123,7 @@ function articleMaker(articleObj) {
   articleWrapper.appendChild(articleTitle);
   articleWrapper.appendChild(articleDate);
   articleWrapper.appendChild(articleParaOne);
-  articleWrapper.appendChild(articleParatwo);
+  articleWrapper.appendChild(articleParaTwo);
   articleWrapper.appendChild(articleParaThree);
   articleWrapper.appendChild(expandButton);
 
